@@ -1,5 +1,8 @@
 # my-vue3-app
 
+### VUE VERSION
+"vue": "^3.2.13"
+
 ## Project setup
 ```
 npm install
@@ -24,4 +27,3 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-"vue": "^3.2.13"
